@@ -14,7 +14,7 @@
 
 ### Hi there, 
 
-##### I am Pavlo Hrab - geneticist/bioengineer by training and bioinformatician by passion. <br>
+#### I am Pavlo Hrab - geneticist/bioengineer by training and bioinformatician by passion. <br>
 
 
 ### About me
