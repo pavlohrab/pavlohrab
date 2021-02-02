@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/pavlohrab" target="_blank"><img alt="pavlohrab" src="https://badges.pufler.dev/visits/pavlohrab/pavlohrab?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/pavlohrab" target="_blank"><img alt="pavlohrab" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=pavlohrab.hrmR&style=flat-square"/></a>
     <!--<a href="https://github.com/pavlohrab" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/pavlohrab/pavlohrab?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/pavlohrab/pavlohrab" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/pavlohrab/pavlohrab?label=profile%20updated&style=flat-square"></a>
 </p>
